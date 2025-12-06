@@ -1,1 +1,0 @@
-# BPW---Brute-Force-Password-Wordlist
