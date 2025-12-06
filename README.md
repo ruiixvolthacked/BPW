@@ -25,7 +25,8 @@ Enter a line > 10
 
 Enter special characters (press ENTER if none): @#
 
-[INFO] Wordlist is finished [✓] : 10 row saved success
+[NFO] Wordlist is finished [✓] : 10 row saved success
+
 ---
 
 ## 📦 Output
