@@ -18,6 +18,7 @@ python3 BPW.py
 Examples:
 
 [WARNING] Too many rows can cause a crash !!!
+
 Enter a word > dpr kontol
 
 Enter a line > 10
